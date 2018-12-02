@@ -1,3 +1,14 @@
+Basic exploration of React class-based components, from the [Udemy Modern React with Redux course](https://www.udemy.com/react-redux/)
+
+This app prompts a user for their location, and will attempt to determine if it is summer or winter at their location, based on their latitude and the current month. The app uses the Mozilla [Geolocation API](https://developer.mozilla.org/en-US/docs/web/api/geolocation_API) to determine the user's location. 
+
+The project explores the following aspects of a class-based React component:
+* Initializing and setting the state object
+* Conditionally rendering content 
+* Passing props to a child component
+* Using a configuration object for a class
+* Setting default properties using defaultProps
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
